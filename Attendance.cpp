@@ -1,6 +1,3 @@
-# Attendance-
-#Attendance Management System Using C++
-
 #include <iostream>
 #include <string>
 #include <map>
